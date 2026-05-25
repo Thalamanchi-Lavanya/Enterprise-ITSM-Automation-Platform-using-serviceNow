@@ -86,6 +86,15 @@ Manage and resolve IT issues raised by users.
 * Email Notifications
 * Status Updates
 
+---
+
+# 📸 Incident Management Screenshots
+
+## 🔹 Incident Form Automation
+![Incident Form](01_Incident_Management/01-incident_form_Automation_features.png)
+
+## 🔹 P1 Incident SLA Tracking
+![SLA Tracking](01_Incident_Management/02-P1_incident_SLA_Tracking.png)
 ## 🧩 Fields Configured
 
 ```text
