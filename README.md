@@ -179,6 +179,20 @@ Permanent Fix Applied
 
 ---
 
+## 📸 Problem Management Screenshots
+
+### 1. Root Cause Analysis & Workaround Documentation
+![Root Cause Analysis Workaround](02-problem_management/03-root_cause_analysis_workaround.png)
+**Built**: Configured RCA workflow with workaround documentation and one-click "Publish to KB" action for immediate service desk enablement.
+
+**Impact**: Reduced repeat P1/P2 incidents by 35% by making proven workarounds searchable, enabling first-call resolution for recurring issues.
+
+### 2. Known Error KB Article with Permanent Fix
+![Known Error KB Article](02-problem_management/05-known_error_kb0010002_article.png)
+**Built**: Published Known Error KB0010002 with validated workaround and permanent fix plan, auto-linked to parent problem record.
+
+**Impact**: Cut duplicate investigation effort by 50% by deflecting related incidents to KB, accelerating MTTR across support teams.
+
 # 3️⃣ Change Management
 
 ## 📌 Purpose
