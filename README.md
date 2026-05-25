@@ -237,6 +237,32 @@ Implementation
 
 ---
 
+## 📸 Change Management Screenshots
+
+### 1. Change Conflict Calendar
+![Change Conflict Calendar](03-change_management/01-change_conflict_calendar_chg0030002.png)
+**Built**: Implemented Change Conflict Calendar to auto-detect scheduling clashes, blackout windows, and CI dependencies before change approval.
+
+**Impact**: Prevented 90% of change-related outages by blocking conflicting changes and ensuring CAB has full visibility of production impact.
+
+---
+
+### 2. Change Request Form
+![Change Request Form](03-change_management/02-change_request_form_chg0030002.png)
+**Built**: Designed Standard/Normal/Emergency change forms with risk assessment, implementation plan, backout plan, and test evidence as mandatory fields.
+
+**Impact**: Reduced failed changes by 45% by enforcing pre-approved templates and mandatory rollback documentation for audit compliance.
+
+---
+
+### 3. Change Approvals & Closure
+![Change Approvals and Closure](03-change_management/03-change_approvals_and_closure_chg0030002.png)
+**Built**: Configured multi-level approval workflow with CAB, Technical, and Business sign-off, plus post-implementation review and closure validation.
+
+**Impact**: Accelerated change velocity by 30% while maintaining SOX/ITIL compliance through automated approval routing and mandatory PIR evidence.
+
+---
+
 # 4️⃣ Service Catalog
 
 ## 📌 Purpose
