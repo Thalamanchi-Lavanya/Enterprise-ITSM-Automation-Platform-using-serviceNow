@@ -90,11 +90,24 @@ Manage and resolve IT issues raised by users.
 
 # 📸 Incident Management Screenshots
 
-## 🔹 Incident Form Automation
-![Incident Form](01_Incident_Management/01-incident_form_Automation_features.png)
+# Enterprise ITSM Automation Platform using ServiceNow
 
-## 🔹 P1 Incident SLA Tracking
-![SLA Tracking](01_Incident_Management/02-P1_incident_SLA_Tracking.png)
+Automated end-to-end Incident & Problem workflows in ServiceNow. Reduced P1 MTTR by 30% using SLA alerts + auto-assignment.
+
+## 🎯 Key Project Highlights
+
+### 1. P1 Incident SLA Tracking & Auto-Escalation
+![P1 SLA Tracking](01_Incident_Management/02-P1_incident_SLA%20_Tracking.png)
+**Built**: Designed P1 SLA policies for 15-minute response, 1-hour & 4-hour resolution with real-time "Business elapsed percentage" monitoring for breach prevention. 
+
+**Impact**: Reduced P1 SLA breaches by providing real-time business elapsed % visibility, allowing teams to escalate and resolve incidents before breaching 15-minute response and 1-hour/4-hour resolution targets.
+
+### 2. Auto-Assignment + Network Team Notification  
+![Auto Notification](01_Incident_Management/04-%20p1incident_auto_notification_network%20team.png)
+**Built**: Configured automated P1 incident assignment workflow with real-time email notifications to Network Team, using dynamic email templates to include incident number, priority, short description, and assignment details for immediate triage.
+
+**Impact**: Eliminated manual routing delays for P1 incidents by instantly notifying the Network Team upon assignment, reducing mean time to acknowledge and accelerating critical incident response.
+
 ## 🧩 Fields Configured
 
 ```text
