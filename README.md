@@ -90,8 +90,6 @@ Manage and resolve IT issues raised by users.
 
 # 📸 Incident Management Screenshots
 
-# Enterprise ITSM Automation Platform using ServiceNow
-
 Automated end-to-end Incident & Problem workflows in ServiceNow. Reduced P1 MTTR by 30% using SLA alerts + auto-assignment.
 
 ## 🎯 Key Project Highlights
@@ -102,11 +100,15 @@ Automated end-to-end Incident & Problem workflows in ServiceNow. Reduced P1 MTTR
 
 **Impact**: Reduced P1 SLA breaches by providing real-time business elapsed % visibility, allowing teams to escalate and resolve incidents before breaching 15-minute response and 1-hour/4-hour resolution targets.
 
+---
+
 ### 2. Auto-Assignment + Network Team Notification  
 ![Auto Notification](01_Incident_Management/04-%20p1incident_auto_notification_network%20team.png)
 **Built**: Configured automated P1 incident assignment workflow with real-time email notifications to Network Team, using dynamic email templates to include incident number, priority, short description, and assignment details for immediate triage.
 
 **Impact**: Eliminated manual routing delays for P1 incidents by instantly notifying the Network Team upon assignment, reducing mean time to acknowledge and accelerating critical incident response.
+
+---
 
 ## 🧩 Fields Configured
 
@@ -187,11 +189,15 @@ Permanent Fix Applied
 
 **Impact**: Reduced repeat P1/P2 incidents by 35% by making proven workarounds searchable, enabling first-call resolution for recurring issues.
 
+---
+
 ### 2. Known Error KB Article with Permanent Fix
 ![Known Error KB Article](02-problem_management/05-known_error_kb0010002_article..png)
 **Built**: Published Known Error KB0010002 with validated workaround and permanent fix plan, auto-linked to parent problem record.
 
 **Impact**: Cut duplicate investigation effort by 50% by deflecting related incidents to KB, accelerating MTTR across support teams.
+
+---
 
 # 3️⃣ Change Management
 
