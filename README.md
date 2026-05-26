@@ -343,6 +343,8 @@ Provide self-service support articles.
 * Reduced duplicate incidents
 * Faster issue resolution
 * Improved user self-service
+  
+---
 
 ## 📸 Knowledge Management Screenshots
 
@@ -517,13 +519,25 @@ Preview & Commit
 ```
 
 ---
+## 📸 Update Set Deployment Screenshots
 
+### 1. Update Set - Enterprise ITSM Automation Committed to Production
+![Update Set Production](09-Enterprise_ITSM_UpdateSet_Deployment/01-servicenow_updateset_enterprise_itsm_automation_committed_production.png)
+**Built**: Packaged all ITSM automation artifacts including Flows, Client Scripts, ACLs, and UI Policies into a single update set and committed to production after UAT sign-off.
+
+**Impact**: Enabled zero-downtime deployment of the full ITSM automation suite with 100% audit traceability and instant rollback capability, reducing release risk and ensuring consistent environments across instances.
+
+---
 # 🧪 Testing Performed
 
 ✅ Functional Testing
+
 ✅ Workflow Testing
+
 ✅ SLA Validation
+
 ✅ Notification Testing
+
 ✅ Approval Testing
 
 ---
@@ -531,9 +545,13 @@ Preview & Commit
 # 📈 Key Achievements
 
 ✔️ Reduced manual ticket handling
+
 ✔️ Improved SLA compliance
+
 ✔️ Faster incident resolution
+
 ✔️ Automated approval process
+
 ✔️ Better reporting visibility
 
 ---
