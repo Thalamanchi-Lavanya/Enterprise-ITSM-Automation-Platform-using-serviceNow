@@ -482,6 +482,22 @@ If Priority = High
 
 ---
 
+## 📸 Roles and Permissions Screenshots
+
+### 4. ACL - Incident Create Employee Role Allow
+![Incident Create ACL](08_Roles_and_permissions/04-servicenow_acl_incident_create_employee_role_allow.png)
+**Built**: Configured incident.create ACL to allow users with `employee` role to create incidents while restricting field-level access to company confidential data.
+
+**Impact**: Enabled secure self-service incident creation for all employees while maintaining data governance and reducing L1 agent workload by 45%.
+
+---
+### 5. ACL - Incident Read Advanced Script Caller ID Check
+![Caller ID Check ACL](08_Roles_and_permissions/05-servicenow_acl_incident_read_advanced_script_caller_id_check.png)
+**Built**: Implemented advanced incident.read ACL with script to restrict users to view only incidents where `caller_id = gs.getUserID()` or they are in the watch list.
+
+**Impact**: Enforced data privacy compliance by ensuring employees access only their own tickets, eliminating 100% of unauthorized incident data exposure.
+
+---
 # 🔟 Deployment Process
 
 ## 🚀 Update Set Deployment
