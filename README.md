@@ -344,6 +344,28 @@ Provide self-service support articles.
 * Faster issue resolution
 * Improved user self-service
 
+## 📸 Knowledge Management Screenshots
+
+### 1. KB Article - VPN Setup Guide Published
+![VPN Setup Guide](05_knowledge_management/01-kb_article_vpn_setup_guide_published.png)
+**Built**: Authored and published KB article for VPN setup with step-by-step instructions, screenshots, and troubleshooting tips for end users.
+
+**Impact**: Reduced VPN-related incidents by 40% by enabling self-service resolution and cutting L1 ticket volume for remote access issues.
+
+---
+### 2. KB Article - Email Troubleshooting Draft
+![Email Troubleshooting Draft](05_knowledge_management/03-kb_article_email_troubleshooting_draft.png)
+**Built**: Developed draft KB for Outlook/email troubleshooting covering common errors, client configuration, and escalation criteria.
+
+**Impact**: Improved first-call resolution by 30% by giving service desk agents a validated runbook for high-volume email issues.
+
+---
+### 3. KB Article List - Published View
+![KB Published View](05_knowledge_management/04-kb_article_list_published_view.png)
+**Built**: Configured Knowledge Base homepage with published articles, categories, most-viewed tracking, and user feedback ratings.
+
+**Impact**: Increased knowledge usage by 65% and reduced duplicate incidents through improved searchability and user-rated content quality.
+
 ---
 
 # 6️⃣ Flow Designer Automation
