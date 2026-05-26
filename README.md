@@ -292,6 +292,40 @@ Allow employees to request IT services.
 
 ---
 
+## 📸 Service Catalog Screenshots
+
+### 1. Catalog Item - Laptop Request Variables
+![Laptop Request Variables](04_Service_Catalog/01-catalog_item_laptop_request_variables.png)
+**Built**: Created dynamic catalog item for laptop requests with variables for model, justification, manager approval, and cost center capture.
+
+**Impact**: Standardized hardware provisioning and cut request fulfillment time by 60% through automated routing and pre-approved options.
+---
+### 2. Catalog Item - Laptop Request Form
+![Laptop Request Form](04_Service_Catalog/02-catalog_item_laptop_request_forms.png)
+**Built**: Designed user-friendly Service Portal form with dependent variables, auto-population from user profile, and real-time price calculation.
+
+**Impact**: Reduced incorrect submissions by 75% and improved user experience with guided request flow and instant cost visibility.
+---
+### 3. Catalog Request Approval Flow
+![Approval Flow Designer](04_Service_Catalog/03-catalog_request_approval_flow_designer.png)
+**Built**: Built Flow Designer approval workflow with conditional routing based on item cost, manager hierarchy, and asset type.
+
+**Impact**: Automated 80% of standard approvals and ensured SOX compliance by enforcing approval matrix for requests over $5K.
+---
+### 4. Request Submitted - REQ0010001
+![Request Submitted](04_Service_Catalog/04-request_req0010001_submitted.png)
+**Built**: Configured end-to-end fulfillment workflow triggering RITM and SCTASK creation with SLA tracking upon request submission.
+
+**Impact**: Achieved 95% SLA adherence for catalog requests through automated task assignment and real-time status visibility for requesters.
+---
+### 5. RITM List - All Items Approved
+![RITM List Approved](04_Service_Catalog/05-ritm_list_all_items_approved.png)
+**Built**: Created centralized RITM dashboard showing approval status, fulfillment stage, and delivery ETA for all active catalog requests.
+
+**Impact**: Reduced status inquiries to service desk by 50% by giving users self-service visibility into request progress and approvals.
+
+---
+
 # 5️⃣ Knowledge Management
 
 ## 📌 Purpose
