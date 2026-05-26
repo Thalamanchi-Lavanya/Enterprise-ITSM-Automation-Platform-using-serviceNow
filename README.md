@@ -454,6 +454,16 @@ If Priority = High
 
 ---
 
+## 📸 Reports and Dashboards Screenshots
+
+### 5. Enterprise ITSM Automation Platform Dashboard
+![ITSM Dashboard Overview](07_Reports_and_Dashboards/05-servicenow_dashboard_enterprise_itsm_automation_platform_overview.png)
+**Built**: Designed executive ITSM dashboard consolidating real-time metrics for Incidents, Problems, Changes, SLA compliance, and automation KPIs in a single pane view.
+
+**Impact**: Enabled data-driven ITSM decisions by reducing manual report generation time by 80% and giving leadership instant visibility into MTTR, change success rate, and backlog trends.
+
+---
+
 # 9️⃣ Roles & Permissions
 
 ## 👤 Roles Implemented
